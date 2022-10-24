@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Second App</string>
+    <string name="titulo">Formulário Carro</string>
+    <string name="btn_add">Adicionar</string>
+    <string name="btn_edt">Editar</string>
+    <string name="titulo_list">Lista de carros</string>
+</resources>
